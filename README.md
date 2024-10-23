@@ -13,7 +13,7 @@ teams on various projects. Adaptable to working remotely or in-office as needed
   <br><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" align="left"/> 
   <img src = "https://img.shields.io/badge/flask-%23CC342D.svg?style=for-the-badge&logo=flask&logoColor=white" align = "left"/> 
   <img src = "https://img.shields.io/badge/django-%23CC0000.svg?style=for-the-badge&logo=django&logoColor=white" align = "left"/>
-  <img src = "https://img.shields.io/badge/fastapi-%23CC0000.svg?style=for-the-badge&logo=django&logoColor=white" align = "left"/>
+  <img src = "https://img.shields.io/badge/fastapi-%23CC0000.svg?style=for-the-badge&logo=fastapi&logoColor=white" align = "left"/>
 </li>
 <li>Database: PostgreSQL, SQL</li>
 <li>Web: HTML, CSS, React Bootstrap</li>
