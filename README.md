@@ -8,8 +8,8 @@ teams on various projects. Adaptable to working remotely or in-office as needed
 <li><strong>Programming Languages</strong>
   <br><img src = "https://img.shields.io/badge/python-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" align = "left"/> 
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="left"/>
-</li>
-<br><li>Web Frameworks/ Libraries: React.js, Flask, Django, FastAPI</li>
+</li></br>
+<li>Web Frameworks/ Libraries: React.js, Flask, Django, FastAPI</li>
 <li>Database: PostgreSQL, SQL</li>
 <li>Web: HTML, CSS, React Bootstrap</li>
 <li>Project Management | Data Structures | Algorithms</li>
