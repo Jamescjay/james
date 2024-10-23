@@ -4,40 +4,66 @@ writing clear, maintainable code and troubleshooting. Experienced in collaborati
 teams on various projects. Adaptable to working remotely or in-office as needed
 
 <h2>Skills</h2>
+
+<h3>Programming Languages</h3>
 <ul>
-  <li><strong>Programming Languages</strong>
-    <br>
+  <li>
     <img src="https://img.shields.io/badge/python-%23ED8B00.svg?style=for-the-badge&logo=python&logoColor=white" align="left" />
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="left" />
-    <div style="clear: both;"></div> <!-- Clears float for next line -->
+    <div style="clear: both;"></div>
   </li>
-  
-  <li><strong>Web Frameworks/Libraries</strong>
-    <br>
+</ul>
+
+<h3>Frameworks/Libraries</h3>
+<ul>
+  <li>
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" align="left" />
     <img src="https://img.shields.io/badge/flask-%23CC342D.svg?style=for-the-badge&logo=flask&logoColor=white" align="left" />
     <img src="https://img.shields.io/badge/django-%23CC0000.svg?style=for-the-badge&logo=django&logoColor=white" align="left" />
     <img src="https://img.shields.io/badge/fastapi-%23CC0000.svg?style=for-the-badge&logo=fastapi&logoColor=green" align="left" />
-    <div style="clear: both;"></div> 
+    <div style="clear: both;"></div>
   </li>
+</ul>
 
-  <li><strong>Database</strong>
-    <br>
+<h3>Database</h3>
+<ul>
+  <li>
     <img src="https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" align="left" />
     <img src="https://img.shields.io/badge/sql-%23F29111.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" align="left" />
-    <div style="clear: both;"></div> 
+    <div style="clear: both;"></div>
   </li>
+</ul>
 
-  <li><strong>Web</strong>
-    <br>
+<h3>Web</h3>
+<ul>
+  <li>
     <img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="left" />
     <img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="left" />
     <img src="https://img.shields.io/badge/react_bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" align="left" />
-    <div style="clear: both;"></div> 
+    <div style="clear: both;"></div>
   </li>
-
-  <li><strong>Project Management | Data Structures | Algorithms</strong></li>
 </ul>
+
+<h3>Other Skills</h3>
+<ul>
+  <li>Project Management</li>
+  <li>Data Structures</li>
+  <li>Algorithms</li>
+</ul>
+
+<style>
+  h3 {
+    margin-top: 20px; 
+    margin-bottom: 10px;
+  }
+  ul {
+    list-style-type: none; 
+    padding: 0;
+  }
+  li {
+    margin-bottom: 15px; 
+  }
+</style>
 
 
 <h3 align="left">Languages and Tools:</h3>
